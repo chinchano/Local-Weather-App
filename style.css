@@ -1,0 +1,25 @@
+body {
+  
+  color: #fff;
+  background-color: #2B3E5E;
+}
+
+#weatherText,  p{
+  text-align: center;
+ font-size: 30px;
+}
+
+#formatChange {
+font-size: 15px;
+  margin-top: 20px;
+margin-left: 500px;
+  background-color: #0C121C;
+  border-color: #6D9CEC;
+}
+#formatChange:hover{
+  background-color: #B6B7BA;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
